@@ -16,7 +16,11 @@ Android sports app (Kotlin, XML layouts, Room) for **OPSC6312 – Mobile Applica
 <!-- Replace these with real phone screenshots saved in docs/screenshots/ -->
 | Home | Match detail | Prediction League | Settings |
 |---|---|---|---|
-| ![Home](docs/screenshots/home.png) | ![Match](docs/screenshots/match.png) | ![Predictions](docs/screenshots/predictions.png) | ![Settings](docs/screenshots/settings.png) |
+| ![Home]<img width="738" height="1600" alt="WhatsApp Image 2026-11-03 at 19 20 53" src="https://github.com/user-attachments/assets/ed4bb11f-ab0c-4297-b368-7df4361ed7fe" />
+ | ![Match]<img width="738" height="1600" alt="WhatsApp Image 2026-11-03 at 19 20 53" src="https://github.com/user-attachments/assets/b009fbbf-b72d-4947-923b-2ed754b06a46" />
+ | ![Predictions]<img width="738" height="1600" alt="WhatsApp Image 2026-11-03 at 19 20 53 (1)" src="https://github.com/user-attachments/assets/998e165b-3494-4245-a498-62537a36e3df" />
+ | ![Settings]<img width="738" height="1600" alt="WhatsApp Image 2026-11-03 at 19 36 21" src="https://github.com/user-attachments/assets/ef343e6c-4e97-4ec2-a824-fe0708d364d0" />
+ |
 
 ---
 
