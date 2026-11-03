@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "732961206977",
+    "project_id": "pitchpulsefinal",
+    "storage_bucket": "pitchpulsefinal.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:732961206977:android:4419a60fb94361e0735a40",
+        "android_client_info": {
+          "package_name": "com.rosebank.pitchpulse"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOVCiF6nJZ-hQNPY1-8YbkGUWhR59Jt8M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,20 @@
+/.gradle/
+/.idea/
+/local.properties
+**/*.iml
+**/build/
+captures/
+.externalNativeBuild/
+.cxx/
+
+# Signing keys and secrets - never commit
+key.properties
+*.jks
+*.keystore
+
+# The shared debug key is intentionally committed (see docs/FIREBASE_SETUP.md)
+!app/debug.keystore
+
+# API server
+api/node_modules/
+api/serviceAccount*.json

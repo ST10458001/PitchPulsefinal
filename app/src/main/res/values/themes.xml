@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.PitchPulse" parent="Theme.Material3.Dark.NoActionBar">
+        <item name="colorPrimary">@color/cyan</item>
+        <item name="colorOnPrimary">@color/on_cyan</item>
+        <item name="colorSurface">@color/surface</item>
+        <item name="colorOnSurface">@color/text</item>
+        <item name="colorOnSurfaceVariant">@color/muted</item>
+        <item name="colorOutline">@color/line</item>
+        <item name="android:colorBackground">@color/charcoal</item>
+        <item name="colorOnBackground">@color/text</item>
+        <item name="android:statusBarColor">@color/charcoal</item>
+        <item name="android:navigationBarColor">@color/charcoal</item>
+        <item name="android:windowBackground">@color/charcoal</item>
+        <item name="android:windowLightStatusBar">false</item>
+    </style>
+
+    <style name="Theme.PitchPulse.Ivory" parent="Theme.Material3.Light.NoActionBar">
+        <item name="colorPrimary">@color/cyan</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <item name="colorSurface">@color/ivory_surface</item>
+        <item name="colorOnSurface">@color/charcoal</item>
+        <item name="colorOnSurfaceVariant">@color/ivory_muted</item>
+        <item name="colorOutline">@color/ivory_line</item>
+        <item name="android:colorBackground">@color/ivory_bg</item>
+        <item name="colorOnBackground">@color/charcoal</item>
+        <item name="android:statusBarColor">@color/ivory_bg</item>
+        <item name="android:navigationBarColor">@color/ivory_bg</item>
+        <item name="android:windowBackground">@color/ivory_bg</item>
+        <item name="android:windowLightStatusBar">true</item>
+    </style>
+
+    <style name="Widget.PitchPulse.Chip" parent="Widget.Material3.Chip.Filter">
+        <item name="chipCornerRadius">20dp</item>
+        <item name="android:checkable">true</item>
+    </style>
+</resources>

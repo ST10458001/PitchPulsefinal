@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="charcoal">#1B1B1E</color>
+    <color name="surface">#242429</color>
+    <color name="surface_high">#2E2E34</color>
+    <color name="text">#F4F4F5</color>
+    <color name="muted">#A1A1AA</color>
+    <color name="cyan">#2E86AB</color>
+    <color name="cyan_soft">#7EC8E3</color>
+    <color name="on_cyan">#06202B</color>
+    <color name="line">#3A3A42</color>
+    <color name="live">#3DDC97</color>
+    <color name="ht">#E0A106</color>
+    <color name="white">#FFFFFF</color>
+    <color name="ivory_bg">#F4F1EA</color>
+    <color name="ivory_surface">#FFFFFF</color>
+    <color name="ivory_muted">#5C5A56</color>
+    <color name="ivory_line">#E2DDD4</color>
+    <color name="danger">#E85D4C</color>
+</resources>

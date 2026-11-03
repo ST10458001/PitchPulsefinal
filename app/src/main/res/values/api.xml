@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Paste your deployed Cloud Run URL here, e.g. https://pitchpulse-api-abc123-bq.a.run.app
+         Leave it empty to call TheSportsDB directly and write predictions straight to Firestore. -->
+    <string name="api_base_url" translatable="false"></string>
+</resources>
