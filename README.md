@@ -7,7 +7,8 @@ Android sports app (Kotlin, XML layouts, Room) for **OPSC6312 – Mobile Applica
 | **Group** | Group 10, Rosebank International |
 | **Authors** | Tshegofatso Mokwele (ST10458001), Lindokuhle Nelson (ST10446928) |
 | **Package** | `com.rosebank.pitchpulse` · Min SDK 26 · Target SDK 34 |
-| **Demo video** | 🎥 **PASTE UNLISTED YOUTUBE LINK HERE** |
+| **Demo video** | 🎥 [DEMO OF THE APP VIDEO](https://youtu.be/x4Mx4LcZjk8) |
+|**Explanation of the Code video**|  [EXPLANATION OF THE CODE VIDEO]() |
 | **Release notes** | [RELEASE_NOTES.md](RELEASE_NOTES.md) |
 | **AI usage write-up** | [AI_USAGE.md](AI_USAGE.md) |
 
