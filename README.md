@@ -16,9 +16,9 @@ Android sports app (Kotlin, XML layouts, Room) for **OPSC6312 – Mobile Applica
 GitHub:https://github.com/ST10458001/PitchPulsefinal
 
 ## Play Store Preparation
-![App Icon](<img width="784" height="1168" alt="WhatsApp Image 2026-11-05 at 07 14 57" src="https://github.com/user-attachments/assets/0e1f7201-529b-4eff-9036-b1850581fa0d" />
+|**App Icon** | ![App Icon](<img width="784" height="1168" alt="WhatsApp Image 2026-11-05 at 07 14 57" src="https://github.com/user-attachments/assets/0e1f7201-529b-4eff-9036-b1850581fa0d" /> |
 ) 
-[Download APK](app-debug.apk)
+|**APK FILE** | [Download APK](app-debug.apk) |
 
 ## Screenshots
 
