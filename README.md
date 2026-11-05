@@ -8,9 +8,10 @@ Android sports app (Kotlin, XML layouts, Room) for **OPSC6312 – Mobile Applica
 | **Authors** | Tshegofatso Mokwele (ST10458001), Lindokuhle Nelson (ST10446928) |
 | **Package** | `com.rosebank.pitchpulse` · Min SDK 26 · Target SDK 34 |
 | **Demo video** | 🎥 [DEMO OF THE APP VIDEO](https://youtu.be/x4Mx4LcZjk8) |
-|**Explanation of the Code video**|  [EXPLANATION OF THE CODE VIDEO]() |
+|**Explanation of the Code video**|  [EXPLANATION OF THE CODE VIDEO](https://youtu.be/a0b5-raZQWU) |
 | **Release notes** | [RELEASE_NOTES.md](RELEASE_NOTES.md) |
 | **AI usage write-up** | [AI_USAGE.md](AI_USAGE.md) |
+|**APK FILE** | [Download APK](app-debug.apk) |
 
 ## Repository
 
@@ -19,7 +20,6 @@ GitHub:https://github.com/ST10458001/PitchPulsefinal
 ## Play Store Preparation
 |**App Icon** | ![App Icon](<img width="784" height="1168" alt="WhatsApp Image 2026-11-05 at 07 14 57" src="https://github.com/user-attachments/assets/0e1f7201-529b-4eff-9036-b1850581fa0d" /> |
 ) 
-|**APK FILE** | [Download APK](app-debug.apk) |
 
 ## Screenshots
 
@@ -34,8 +34,6 @@ GitHub:https://github.com/ST10458001/PitchPulsefinal
 
 ---
 
-
-The app has been prepared for publication and meets the minimum requirements.
 ## 1. Purpose of the app
 
 PitchPulse puts live scores, news, favourites and a points-based **Prediction League** into one app. Our Part 1 research on LiveScore, Sofascore and SportyTV showed three recurring problems: intrusive ads, shallow statistics, and users having to jump between apps for news and scores. PitchPulse answers each one:
