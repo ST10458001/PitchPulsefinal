@@ -30,7 +30,7 @@ Android sports app (Kotlin, XML layouts, Room) for **OPSC6312 – Mobile Applica
 
 **App Icon:** 512×512 PNG ready for Play Store  
 **Screenshots:** Included above  
-**APK:** [Download PitchPulse.apk](PitchPulse.apk)
+**APK:** [Download PitchPulse.apk](app-debug.apk)
 
 The app has been prepared for publication and meets the minimum requirements.
 ## 1. Purpose of the app
