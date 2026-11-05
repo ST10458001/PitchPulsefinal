@@ -11,6 +11,15 @@ Android sports app (Kotlin, XML layouts, Room) for **OPSC6312 – Mobile Applica
 | **Release notes** | [RELEASE_NOTES.md](RELEASE_NOTES.md) |
 | **AI usage write-up** | [AI_USAGE.md](AI_USAGE.md) |
 
+## Repository
+
+GitHub:https://github.com/ST10458001/PitchPulsefinal
+
+## Play Store Preparation
+![App Icon](<img width="784" height="1168" alt="WhatsApp Image 2026-11-05 at 07 14 57" src="https://github.com/user-attachments/assets/0e1f7201-529b-4eff-9036-b1850581fa0d" />
+) 
+[Download APK](app-debug.apk)
+
 ## Screenshots
 
 <!-- Replace these with real phone screenshots saved in docs/screenshots/ -->
@@ -23,14 +32,7 @@ Android sports app (Kotlin, XML layouts, Room) for **OPSC6312 – Mobile Applica
  |
 
 ---
-## Play Store Preparation
 
-![App Icon](<img width="784" height="1168" alt="WhatsApp Image 2026-11-05 at 07 14 57" src="https://github.com/user-attachments/assets/0e1f7201-529b-4eff-9036-b1850581fa0d" />
-)
-
-**App Icon:** 512×512 PNG ready for Play Store  
-**Screenshots:** Included above  
-**APK:** [Download PitchPulse.apk](app-debug.apk)
 
 The app has been prepared for publication and meets the minimum requirements.
 ## 1. Purpose of the app
